@@ -13,3 +13,20 @@ a{
 p{
     font-family: calibri;
 }
+
+.outer{
+    margin-top: 25px;
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.red{
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top: 110px;
+    margin-left: 110px;
+}
